@@ -29,6 +29,14 @@ const projects = [
     github: "https://github.com/GabrielFdeOliveira/Wallys-Widgets",
     link: "https://wallys-widgets-nu.vercel.app/",
   },
+  {
+    name: "NYT Best Sellers",
+    description:
+      "Built with TypeScript and React on Vite framework, this app uses NYT Books API to let users search and add books to their favorites. Features include search bar and best-selling book list. Challenge involved creating app based on provided wireframe.",
+    image: "/NYT.png",
+    github: "https://github.com/GabrielFdeOliveira/Book-API",
+    link: "https://nyt-list-challenge.vercel.app/",
+  },
 ];
 
 const ProjectsSection = () => {
